@@ -1,0 +1,196 @@
+Script started on Thu 12 Dec 2019 02:58:19 PM PST
+]0;perez311@empress:~/CS421Progs/ScannerFiles[?1034h[perez311@empress ScannerFiles]$ g++exit./group16scanner.out [6Pg++ scanner.cpp[9Plogoutg++ scanner.cpp
+]0;perez311@empress:~/CS421Progs/ScannerFiles[perez311@empress ScannerFiles]$ ./group16scanner.out 
+Enter the input file name: scannertest2.txt
+Type is:WORD1
+Word is:WORD1
+Lexical error: college is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: class is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: book is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: test is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: home* is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: chair is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: student is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: teacher is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: friend is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: car is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: milk is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Lexical error: beer is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Lexical error: Osaka is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: butterfly is not a valid token
+Type is:ERROR
+Word is:ERROR
+Lexical error: an is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Type is:WORD1
+Word is:WORD1
+Lexical error: easy is not a valid token
+Type is:ERROR
+Word is:ERROR
+Lexical error: muzukashii is not a valid token
+Type is:ERROR
+Word is:ERROR
+Lexical error: difficult is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: pleased is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: happy is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: sad is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: heavy is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD1
+Word is:WORD1
+Lexical error: delicious is not a valid token
+Type is:ERROR
+Word is:ERROR
+Lexical error: tennen is not a valid token
+Type is:ERROR
+Word is:ERROR
+Lexical error: natural is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: cry is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: go* is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: eat is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: take* is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: write is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: read is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: drink is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: give is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: receive is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: hit is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: kick is not a valid token
+Type is:ERROR
+Word is:ERROR
+Type is:WORD2
+Word is:WORD2
+Lexical error: talk is not a valid token
+Type is:ERROR
+Word is:ERROR
+End of file is encountered.
+]0;perez311@empress:~/CS421Progs/ScannerFiles[perez311@empress ScannerFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 02:59:04 PM PST
